@@ -1,0 +1,6 @@
+{
+  "name": "Ralli's Esplanade",
+  "description": "Premium dining experience in Kolkata. Explore our menu, customer ratings, location, and verified details for Ralli's Esplanade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
